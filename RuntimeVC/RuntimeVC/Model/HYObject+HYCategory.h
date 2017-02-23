@@ -1,0 +1,13 @@
+//
+//  HYObject+HYCategory.h
+//  RuntimeVC
+//
+//  Created by wuhaiyang on 2017/2/21.
+//  Copyright © 2017年 ocean. All rights reserved.
+//
+
+#import "HYObject.h"
+
+@interface HYObject (HYCategory)
+
+@end
